@@ -79,7 +79,7 @@
 
 ## GitHub Stats
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aventom&show_icons=true&locale=en&layout=compact" alt="aventom" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aventom&show_icons=true&locale=en&layout=compact" alt="aventom" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aventom&show_icons=true&locale=en" alt="aventom" /></p>
 </div>
 
