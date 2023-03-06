@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Akarashi a website to find information on tour favorite Video Game<br>🌱 I’m currently learning React Redux, Firebase, NextJS 13 and TypeScript<br>💬 Ask me about anything<br>⚡ Fun fact i use Tabs over space
+🔭 I’m currently working on Akarashi a website to find information on tour favorite Video Game<br>🌱 I’m currently learning React Redux, Firebase, NextJS 13 and TypeScript<br>💬 Currently Living in Indonesia<br>⚡ Fun fact i use Tabs over space
 
 
 ## 🌐 Socials:
